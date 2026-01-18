@@ -7,6 +7,8 @@
 
 - 💘 My work at STEM CAMP (AI Station!) ~ [STEM CAMP](https://github.com/yukliio/stemcamp.aistation)
 
+- 🙃 More of me here ~ [My bulb!!!](https://www.bulbapp.com/qianyuhuang/portfolio)
+
 <p align="left">
 </p>
 
