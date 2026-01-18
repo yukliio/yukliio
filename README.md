@@ -3,7 +3,7 @@
 
 - 🪸 Check out my most recent project ~ [CoralBase](https://github.com/xmaxac/CORAL_WORK)
 
-- 🌴 Let's Learn English together :) ~ [TucanSpeak](https://github.com/Seedname/TucanSpeak)
+- 🌴 Let's Learn English together :) ~ [TucanSpeak](https://github.com/Seedname/TucanSpeak/tree/new_fix)
 
 - 💘 My work at STEM CAMP (AI Station!) ~ [STEM CAMP](https://github.com/yukliio/stemcamp.aistation)
 
